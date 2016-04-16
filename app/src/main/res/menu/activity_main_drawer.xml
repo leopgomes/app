@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_solucoes"
+            android:icon="@drawable/ic_weekend_black_24dp"
+            android:title="Clientes" />
+        <item
+            android:id="@+id/nav_servicos"
+            android:icon="@drawable/ic_business_center_black_24dp"
+            android:title="Fornecedores" />
+        <item
+            android:id="@+id/nav_empresa"
+            android:icon="@drawable/ic_business_black_24dp"
+            android:title="Vistorias" />
+
+        <item
+            android:id="@+id/nav_contato"
+            android:icon="@drawable/ic_settings_phone_black_24dp"
+            android:title="Contato" />
+        <item
+            android:id="@+id/sair"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Sair"/>
+    </group>
+</menu>

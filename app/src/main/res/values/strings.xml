@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nosso app</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_login">Login</string>
+
+   <string name="btnEntar">Entrar</string>
+   <string name="edtLogin">E-mail</string>
+   <string name="edtSenha">Senha</string>
+    <string name="btnCadastrar">Cadastrar</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
